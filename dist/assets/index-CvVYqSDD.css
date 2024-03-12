@@ -1,0 +1,1 @@
+*{margin:0;padding:0;box-sizing:border-box}.main-container{display:flex;width:100vw;height:100vh;align-items:center;justify-content:center}.hello-react-wrapper{display:flex;gap:.5em}.animation-wrapper{display:flex;align-items:center}.gear-rotation{display:flex;font-size:20px;margin-bottom:-5px;animation:spinning 2s infinite linear}@keyframes spinning{to{transform:rotate(360deg)}}
